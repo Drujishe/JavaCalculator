@@ -1,18 +1,4 @@
-## Getting Started
+## Доброго времени суток!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Представляю Вашему вниманию мой калькулятор на Java, выполненный по ТЗ.
+До этого момента имел опыт с C#, некоторые моменты при написании калькулятора вызывали шок. В итоге получилось это :)
